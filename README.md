@@ -60,7 +60,7 @@ There are a few tools that can be used to maliciously read and clone RFID tags.
 
 ![diagram](https://hackaday.com/wp-content/uploads/2013/11/rfidlongrangehack.png?w=670)
 
-An individual can get access to these tags by being in close proximity to the device, tapping the reader against it (data transfer can happen through clothes), or physically having access to the device for a short period of time. It takes a few milliseconds to read all the data on the chip and once the data is captured [4], it can be cloned right away or decrypted through hacking tools at a later time. 
+An individual can get access to these tags by being in close proximity to the device, tapping the reader against it (data transfer can happen through clothes), or physically having access to the device for a short period of time. It takes a few milliseconds to read all the data on the chip and once the data is captured, it can be cloned right away or decrypted through hacking tools at a later time. [4]
 
 [Step-by-step Tutorial: How to Copy or Clone Access Cards and Key Fobs](https://www.getkisi.com/blog/how-to-copy-access-cards-and-keyfobs)
 
