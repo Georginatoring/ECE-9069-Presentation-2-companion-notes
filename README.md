@@ -44,6 +44,7 @@ The RFID tags contain an IC powered through an induction coil and transfers data
 ## **Vulnerability**
 
 Since the data is transferred through airwaves, it is vulnerable for replay and cloning (and some cases man-in-the-middle attacks [3]).
+
 There are a few tools that can be used to maliciously read and clone RFID tags.
 ### *RFID Tools*
 
