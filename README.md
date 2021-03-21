@@ -9,7 +9,7 @@
 ### **What is RFID? [[1]](https://www.abr.com/what-is-rfid-how-does-rfid-work/)**
 Stands for "radio-frequency identification". Working on radio waves to automatically identify an object. 
 
-Diffrent types of technology that use RFID: 
+Different types of technology that use RFID: 
 
 * Inventory management
 *  Asset tracking
@@ -29,11 +29,11 @@ There are 3 Families:
 [Read more](https://www.atlasrfidstore.com/rfid-beginners-guide/) [2] 
 1. Low Frequency (LF) using 125-134 KHz
 2. High Frequency (HF) using 13.56 MHz
-3. Ultra High Frequncy (UHF) 433 MHz
+3. Ultra High Frequency (UHF) 433 MHz
 
 
 
-The RFID tags contain an IC that is powered through an induction coil and transfers data to a receiving antenna through radio waves.
+The RFID tags contain an IC powered through an induction coil and transfers data to a receiving antenna through radio waves.
 
 ![diagram](https://www.electronicshub.org/wp-content/uploads/2013/07/Functioning-Principle-of-RFID-Device.png)
 
@@ -43,7 +43,7 @@ The RFID tags contain an IC that is powered through an induction coil and transf
 
 ## **Vulnerability**
 
-Since the data is transfered through airwaves, it is vulnerable for replay and cloning and some cases man-in-the-middle attacks [3].
+Since the data is transferred through airwaves, it is vulnerable for replay and cloning and some cases man-in-the-middle attacks [3].
 
 There are a few tools that can be used to maliciously read and clone RFID tags.
 ### *RFID Tools*
@@ -57,7 +57,7 @@ There are a few tools that can be used to maliciously read and clone RFID tags.
 ![diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpjDVRPJ8c_1i4t9KRFN8Wp9HV3sop6Ktvmw&usqp=CAU)
 
 
-An individual can get access to these tags by being in close precsimity and tapping the reader against the card (data transfer can happen through clothes) or pysically having access to the device for a short period of time. It takes a few milliseonds to read all the data on the chip and once the data is captured it can be cloned right away or decrypted through hacking tools at a later time. [4]
+An individual can get access to these tags by being in close proximity to the device and tapping the reader against it (data transfer can happen through clothes) or physically having access to the device for a short period of time. It takes a few milliseconds to read all the data on the chip and once the data is captured, it can be cloned right away or decrypted through hacking tools at a later time. [4]
 
 [Step-by-step Tutorial: How to Copy or Clone Access Cards and Key Fobs](https://www.getkisi.com/blog/how-to-copy-access-cards-and-keyfobs)
 
