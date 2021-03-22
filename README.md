@@ -24,7 +24,7 @@ There are active and passive RFIDs [read more](https://www.atlasrfidstore.com/rf
 
 (we will only focus on passive)
 
-There are 3 Families:
+There are 3 families:
 
 [Read more](https://www.atlasrfidstore.com/rfid-beginners-guide/) [2] 
 1. Low Frequency (LF) using 125-134 KHz
